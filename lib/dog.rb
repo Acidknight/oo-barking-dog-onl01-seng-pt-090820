@@ -10,6 +10,7 @@ class Dog
   end
   def
   puts "Bark!"
+end
 end 
 
 
